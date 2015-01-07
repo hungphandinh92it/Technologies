@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    android:id="@+id/myToolbar"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/toolbar_color"
+    style="@style/ToolBarStyle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/toolbar_bag"
+        android:scaleType="centerCrop"
+        />
+</android.support.v7.widget.Toolbar>

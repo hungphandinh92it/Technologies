@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Technologies</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_stream">Stream</string>
+    <string name="tab_messages">Messages</string>
+    <string name="tab_notifications">Notifications</string>
+    <string name="tab_photos">Photos</string>
+    <string name="dantri">Dân trí</string>
+    <string name="vnexpress">VnExpress</string>
+    <string name="vietnamnet">Vietnamnet</string>
+    <string name="tinhte">Tinh tế</string>
+</resources>
